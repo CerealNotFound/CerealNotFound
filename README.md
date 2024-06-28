@@ -17,10 +17,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CerealNotFound&theme=outrun&hide_border=false)<br/>
 
-## Oh No My contributions :(
-
-![snake gif](https://github.com/CerealNotFound/CerealNotFound/blob/output/snake.svg)
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=CerealNotFound&theme=radical&no-frame=false&no-bg=false&margin-w=4)
