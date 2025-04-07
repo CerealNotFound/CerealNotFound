@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🖥️ I'm currently experimenting on an AI text-to code webapp<br><br>🌱 I’m currently learning about generative ai, dsa<br><br>💬 Ask me about nextjs<br><br>📫 How to reach me theadarshpandey17@gmail.com<br><br>⚡ Fun fact Beyond code, I am into literature, philosophy, neuroscience and anime<br>
+🖥️ I'm currently working on an AI productivity app<br><br>🌱 I’m currently learning about generative ai, dsa<br><br>💬 Ask me about nextjs<br><br>📫 How to reach me theadarshpandey17@gmail.com<br><br>⚡ Fun fact Beyond code, I am into literature, philosophy, neuroscience and anime<br>
 
 ## 🌐 Socials:
 
